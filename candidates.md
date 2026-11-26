@@ -24,6 +24,51 @@ then lands on its own.
 6. **Hustler** — always hunting the next free opportunity, the next
    angle, the next dollar that costs nothing to chase.
 7. **Overdrive** — permanently one gear above everyone else in the room.
+8. **Boss** — the word itself. No title, no metaphor, no job description:
+   the person who tells you what to do, and the whole joke is that one
+   word is the entire relationship. Short, universal, and the power
+   dynamic is the punchline.
+
+## Revision variant: Boss (alternative package)
+
+This revision swaps the entry from **Taskmaster** to **Boss** as an
+ALTERNATIVE variant for the parent to choose between — the Taskmaster
+package is NOT replaced. The Taskmaster bundle already exists, checked
+14/0 by the coordinator, and stays available as its own separate
+package; this variant is a second, competing entry on top of it.
+
+**Why Boss, per the multi-AI gate (split verdict):**
+
+- Nemotron scored **Taskmaster 4/9/8/9** (funny / fitting / vivid /
+  lands): funny only 4/10 — the word reads too formal, too dramatic,
+  like a job title from a period drama rather than a joke. Its fix was
+  explicit: switch to **Boss** — more universal, more concise, and the
+  humour is the everyday power relation itself, not a costume word.
+  Everyone has had a boss; nobody has to translate the word first.
+- Luna scored **Taskmaster 7/8/8/9** and would SUBMIT it as-is — so
+  Taskmaster is a live, credible option, not a rejected one. The split
+  is real: Luna likes the drama, Nemotron says the drama is the
+  problem.
+
+**Boss against the brief's order:**
+
+- **One word on the subject.** Four letters, one word, the human
+  himself — the boss.
+- **Funny.** The joke is the understatement: a whole human, an
+  eight-agent team, a queue that never empties — summed up in the
+  bluntest possible word. It lands because it refuses to dress up.
+- **Fitting.** It is literally what he is to the team, and the word
+  carries the daily reality: one-line orders, "gas", top 1 or nothing.
+- **Vivid and specific.** Not "busy" or "demanding" — a single word
+  everyone pictures instantly, with a desk and a finger pointing at
+  the next item already in it.
+- **Lands on its own.** No setup, no footnote. The word *is* the joke,
+  and it works the moment you read it.
+
+The parent picks between the two packages: **Taskmaster** (Luna's
+pick, dramatic, already bundled and checked 14/0) or **Boss**
+(Nemotron's fix, shorter, more universal, everyday power-relation
+humour). Only one gets submitted.
 
 ## Why chosen: Taskmaster
 
@@ -55,6 +100,11 @@ at all.
 
 ## The entry
 
+This variant's entry (Boss revision):
+
 ```
-Taskmaster
+Boss
 ```
+
+The original entry, **Taskmaster**, remains available as its own
+separate, already-bundled package (commit 1e1a4302a3ce3693464d7ff4b8896e65cfe70694, checked 14/0) — see "Revision variant: Boss" above. Only one of the two is submitted, at the parent's choice.

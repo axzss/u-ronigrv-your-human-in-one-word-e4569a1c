@@ -9,7 +9,7 @@
 import { mkdirSync, readFileSync, writeFileSync } from "node:fs";
 import { join, resolve } from "node:path";
 
-const ENTRY = "Taskmaster";
+const ENTRY = "Boss";
 
 function fail(message) {
   console.error(`error: ${message}`);
